@@ -19,26 +19,52 @@ A engenheira que a arquiteta contratou para construir a sua casa disse que era p
 A engenheira que o arquiteto contratou para construir a sua casa disse que era possivel que estivesse atrasado para a reunião pelo trafico.
 
 5-A
-O blah
-
+O advogado que a juiza repreendou por ter uma falta de respeito
+A advogada que a juiza repreendou por ter uma falta de respeito
+A advogada que o juiz  repreendou por ter uma falta de respeito
 
 6-A
+O rei    que a palhaça entreteve
+A rainha que a palhaça entreteve
+A rainha que o palhaço entreteve
 
 7-A
+O empresário que a empregada
+A empresária que a empregada
+A empresária que o empregado
 
 8-A
+O ator  que a moça adorava
+A atriz que a moça adorava
+A atriz que o moço adorava
 
 9-A
 
+
+
 10-B
+A sobrinha que o tio
+O sobrinho que o tio
+O sobrinho que a tia
 
 11-B
+A técnica
+O técnico
+O técnico
 
 12-B
 
+
+
+
 13-B
+A noiva que o pai conhecou recentemente pela primeira vez 
+O noivo que o pai conhecou recentemente pela primeira vez
+O noivo que a mãe conhecou recentemente pela primeira vez
 
 14-B
+
+
 15-B
 16-B
 17-B
