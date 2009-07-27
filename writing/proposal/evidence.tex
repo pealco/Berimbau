@@ -1,0 +1,49 @@
+\section{Evidence for how retrieval takes place}
+
+This is the claim: whether the formation of a dependency that requires a retrieval into memory is fallible or not is evidence for what kind of retrieval algorithm the sentence processor uses. The argument is that if the retrieval process that searches memory is structure-guided, then dependencies that rely on structural relations for their licensing \emph{should not} be fallible; structure should lead the retrieval process to the element it is trying to retrieve. On the other hand, if the retrieval process that searches memory is cue-based, then dependencies that rely on structural relations for their licensing \emph{should} be fallible; cue-based search ignores structure and retrieves anything that matches a cue, no matter position.
+
+We say that dependency formation is ``fallible'' if (i) a grammatically illicit dependency is formed or (ii) if during online processing there is evidence that the parser considers structurally ineligible positions as the closing end of an open dependency.
+
+The following sections discuss studies that examine different dependencies for their fallibility. 
+
+\subsection{Agreement}
+
+Studies looking at subject-verb agreement over a distance suggest that the parser does not always take advantage of structural cues \citep{pearlmutter99, wagers09, alcocer09}. Though both are ungrammatical due to subject-verb agreement mismatch, readers are faster to read \ref{keys-b} than \ref{keys-a}. Accounts of the exact mechanism differ, but the consensus seems to be that in \ref{keys-b}, when performing a backwards search to find the verb's subject, the parser incorrectly retrieves the plural feature on \emph{cabinets} and illicitly satisfies the dependency\footnote{It is clear that simple linear adjacency is not enough to explain the errors, as an arbitrary amount of material can be place between agreeing elements with no significant change in acceptability patterns.}. 
+
+\ex.  \a. The key to the cabinet are on the table. \label{keys-a}
+      \b. The key to the cabinets are on the table.\label{keys-b}
+
+\subsection{Reflexives}
+
+One case of faithful backwards dependency completion is reported in \citet{sturt03}. Binding Principle A \cite{chomsky81} requires that anaphors like \emph{himself} have a c-commanding antecedent. In \ref{sturt-sents}, upon reaching the anaphor, the parser must make a retrieval into memory to find an antecedent. If Principle A is respected online, then the structurally inaccessible NP \emph{Jennifer/Jonathan} should not be considered in the search for an antecedent (there should be no reading time slowdowns). In \ref{sturt-sents}, the subject \emph{surgeon} is stereotypically biased towards masculine referents. There is evidence that readers are subject to this bias during online comprehension. This bias might lead readers to consider \emph{Jennifer} as the antecedent to \emph{herself} despite the fact that it is structurally inaccessible. However, \citeauthor{sturt03}'s results show that readers did not consider the matching, but structurally inaccessible intervener, providing evidence that Principle A is respected online and that retrieval is structure-guided.
+
+\ex. \label{sturt-sents} \a. The surgeon that treated Jonathan pricked himself with a needle \label{sturt-a}
+      \b. The surgeon that treated Jennifer pricked herself with a needle \label{sturt-b}
+      \c. The surgeon that treated Jonathan pricked herself with a needle \label{sturt-c}
+      \d. The surgeon that treated Jennifer pricked himself with a needle \label{sturt-d}
+
+\subsection{Negative polarity items}
+
+Negative polarity items (like \emph{any} or \emph{ever}) are licensed by a c-commanding negative element \footnote{This is a simplification. NPIs are licensed by elements that create downward entailing contexts. The c-command requirement is a side effect of how semantic interpretation licenses such entailments.}, as in \ref{NPI-a}. NPIs are not licensed when not c-commanded by a negative element, as in \ref{NPI-b} (negative element absent) or \ref{NPI-c} (negative element not c-commanding).
+
+\ex. \a. No professor will ever say that. \label{NPI-a}
+     \b. *A professor will ever say that. \label{NPI-b}
+     \c. *A professor that no student likes will ever say that. \label{NPI-c}
+     
+
+Studies across languages and paradigms have shown, however, that NPI licensing can be interfered upon by a linearly intervening non-c-commanding element \citep[][et seq.]{drenhaus05}. For instance, in a speeded grammaticality judgment study, \citet{xiang06} found that participants were 15--30\% more likely to judge a sentence like \ref{xiang-c} as acceptable than \ref{xiang-b}.
+
+\ex. \a. No bills that the senator voted for will ever become law.    \label{xiang-a}
+     \b. *The bills that the senators voted for will ever become law. \label{xiang-b}
+     \c. *The bills that no senators voted for will ever become law.  \label{xiang-c}
+
+
+The c-command relation is structural and should not be fallible if memory is searched using structure. \citet{vasishth08} have taken the fallibility of NPI licensing as evidence for content-addressable memory and cue-based retrieval.
+
+\subsection{Principle C and cataphora}
+
+
+
+\subsection{Shortcomings}
+
+Unfortunately, none of these cases are water-tight, knock-down evidence for either kind of retrieval mechanism. Agreement and reflexives require that the two elements of the dependency be in the same clause. It is possible that elements within the same clause are specially encoded and that a cue-based algorithm takes advantage of this encoding.

@@ -1,0 +1,90 @@
+1
+# Don't want the agreeing "interessantes" in the RC.
+Os pacientes que o  psiquiatra  trata  mais freqüentemente acreditam que é certo que são do planeta Marte.
+O  paciente  que o  psiquiatra  trata  mais freqüentemente acredita  que é certo que são do planeta Marte.
+O  paciente  que os psiquiatras tratam mais freqüentemente acredita  que é certo que são do planeta Marte.
+
+2
+Os criminosos que o  detetive  suspeitou   de ter roubado o dinheiro se deram conta que é obvio que são culpados do crime.
+O  criminoso  que o  detetive  suspeitou   de ter roubado o dinheiro se deu   conta que é obvio que são culpados do crime.
+O  criminoso  que os detetives suspeitaram de ter roubado o dinheiro se deu   conta que é obvio que são culpados do crime.
+
+3
+Os matemáticos que o  estudante  consultou   sobre uma equação complicada responderam que é possível que encontraram a solução.
+O  matemático  que o  estudante  consultou   sobre uma equação complicada respondeu   que é possível que encontrou a solução.
+O  matemático  que os estudantes consultaram sobre uma equação complicada respondeu   que é possível que encontrou a solução.
+
+4 
+Os aristocratas que o  mordomo  serviu   durante o almoço disseram que é possível que saírem na noite ao bar.
+O  aristocrata  que o  mordomo  serviu   durante o almoço disse    que é possível que saírem na noite ao bar.
+O  aristocrata  que os mordomos serviram durante o almoço disse    que é possível que saírem na noite ao bar.
+
+5 
+Os trabalhadores que o  capataz   critica  constantemente disseram que é provável que deixassem o trabalho ao final do mês.
+O  trabalhador   que o  capataz   critica  constantemente disse    que é provável que deixassem o trabalho ao final do mês.
+O  trabalhador   que os capatazes criticam constantemente disse    que é provável que deixassem o trabalho ao final do mês.
+
+6
+Os refugiados que o  soldado  descobriu   no porão duma casa disseram que é importante que voltassem ao pais nativo.
+O  refugiado  que o  soldado  descobriu   no porão duma casa disse    que é importante que voltassem ao pais nativo.
+O  refugiado  que os soldados descobriram no porão duma casa disse    que é importante que voltassem ao pais nativo.
+
+7
+Os científicos que o  jornalista  entrevistou   sobre o novo descobrimento químico disseram que era provável que tinham descoberto um novo elemento.
+O  científico  que o  jornalista  entrevistou   sobre o novo descobrimento químico disse    que era provável que tinham descoberto um novo elemento.
+O  científico  que os jornalistas entrevistaram sobre o novo descobrimento químico disse    que era provável que tinham descoberto um novo elemento.
+
+8
+Os artistas que o  colecionista  conheceu   na galeria acreditam que é obvio que vão ser ricos e famosos.
+O  artista  que o  colecionista  conheceu   na galeria acredita  que é obvio que vão ser ricos e famosos.
+O  artista  que os colecionistas conheceram na galeria acredita  que é obvio que vão ser ricos e famosos.
+
+9
+Os pesquisadores que o  científico  ridicularizou   na conferência acham que é surpreendente que ganharam o prêmio Nobel.
+O  pesquisadores que o  científico  ridicularizou   na conferência acha  que é surpreendente que ganharam o prêmio Nobel.
+O  pesquisadores que os científicos ridicularizaram na conferência acha  que é surpreendente que ganharam o prêmio Nobel.
+
+10
+Os doutores que o  paciente consultou   depois da operação disseram que era provável que tinham curado a enfermidade.
+O  doutor   que o  paciente consultou   depois da operação disse    que era provável que tinham curado a enfermidade.
+O  doutor   que os paciente consultaram depois da operação disse    que era provável que tinham curado a enfermidade.
+
+11
+Os turistas que o  ladrão  enganou   na cidade estrangeira se deram conta que é provável que perdessem tudo o dinheiro. 
+O  turista  que o  ladrão  enganou   na cidade estrangeira se deu   conta que é provável que perdessem tudo o dinheiro. 
+O  turista  que os ladroes enganaram na cidade estrangeira se deu   conta que é provável que perdessem tudo o dinheiro. 
+
+12
+Os fregueses que a  vendedora  assistiu   na loja acharam que era irritante que tinham que esperar tanto tempo para atenção.
+O  freguês   que a  vendedora  assistiu   na loja achou   que era irritante que tinham que esperar tanto tempo para atenção.
+O  freguês   que as vendedoras assistiram na loja achou   que era irritante que tinham que esperar tanto tempo para atenção.
+
+13
+Os jovens que o  policial  prendou   por roubar um carro alegaram que era obvio que eram inocentes do crime.
+O  joven  que o  policial  prendou   por roubar um carro alegou   que era obvio que eram inocentes do crime.
+O  joven  que os policiais prenderam por roubar um carro alegou   que era obvio que eram inocentes do crime.
+
+14
+Os construtores que o arquiteto  contratou   para construir o imóvel disseram que era provável que terminassem pelo fim do ano.
+O  construtor   que o arquiteto  contratou   para construir o imóvel disse    que era provável que terminassem pelo fim do ano.
+O  construtor   que o arquitetos contrataram para construir o imóvel disse    que era provável que terminassem pelo fim do ano.
+
+15
+Os autores que o  editor   publicou   com muito sucesso disseram que era provável que escrevessem outros livros.
+O  autor   que o  editor   publicou   com muito sucesso disse    que era provável que escrevessem outros livros.
+O  autor   que os editores publicaram com muito sucesso disse    que era provável que escrevessem outros livros.
+
+16
+Os advogados que o  cliente  encontrou   na corte disseram que era preciso que falassem com o juiz. 
+O  advogado  que o  cliente  encontrou   na corte disse    que era preciso que falassem com o juiz. 
+O  advogado  que os clientes encontraram na corte disse    que era preciso que falassem com o juiz. 
+
+17
+Os diplomatas que o  ministro  acolheu   na mansão presidencial disseram que era possível que tivessem que voltar cedo.
+O  diplomata  que o  ministro  acolheu   na mansão presidencial disse    que era possível que tivessem que voltar cedo.
+O  diplomata  que os ministros acolheram na mansão presidencial disse    que era possível que tivessem que voltar cedo.
+
+18
+Os meninos que o  professor   viu   no boteco da esquina disseram que era provável que fossem chegar atrasados na sala de aula. 
+O  menino  que o  professor   viu   no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 
+O  menino  que os professores viram no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 

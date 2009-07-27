@@ -1,0 +1,39 @@
+\documentclass[12pt,letterpaper]{article}      
+%\usepackage{fullpage}
+\usepackage[english]{babel}
+\usepackage{MinionPro}
+\usepackage[activate={true,nocompatibility},final]{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}
+\usepackage{enumerate}
+\usepackage{tabularx, booktabs}
+\usepackage[small]{caption}
+
+% Linguistics
+\usepackage{linguex}
+\usepackage{parsetree}
+\newcommand{\sub}[1]{$_{\textrm{\scriptsize{#1}}}$}
+\newcommand{\trace}[1]{\textit{t}\sub{#1}}
+\newcommand{\gap}{\underline{\hspace{1em}} }
+\newcommand{\pro}{\textit{pro} }
+\newcommand{\wh}{\textit{wh}}
+  
+\title{Online null subject licensing\\ in Brazilian Portuguese}
+\author{Pedro Alcocer}
+\date{Draft: \today}
+
+\begin{document}
+\maketitle
+
+\section{Context}
+
+\noindent \emph{What kind of algorithm is employed in the retrieval of linguistic representations from memory?} The study proposed here will provide evidence that will be instrumental in answering this question. We exploit a grammatical constraint in Brazilian Portuguese that requires a specific structural relation between a null subject and its antecedent subject. Some retrieval algorithms rely heavily on such structural relations, while other do not. In the case of retrieving a null subject's antecedent, an algorithm's dependence on structure should determine whether it ever considers a structurally \emph{inaccessible} subject as a possible antecedent. Algorithms that are highly dependent on structure should not consider the structurally inaccessible subject. On the other hand, algorithms less sensitive to structure should show signs of having considered the inaccessible subject during the retrieval.
+
+\subsection{The kinds of algorithm in question}
+
+There has been considerable debate over a recent spate of studies suggesting that the sentence processor builds, manipulates, and stores linguistic representations in a content-addressable workspace \citep{mcelree00, mcelree03, lewis05, lewis06}. The proponents of such as system do not make strong claims about whether or how structural relationships are encoded under such a workspace. Importantly, they do claim that whatever of this information is encoded is not used during retrieval. This stands at odds with the long-held assumption in psycholinguistics of a richly structured sentence representation that guides parsing and the operations of the grammar.
+
+\bibliography{berimbau}
+\bibliographystyle{apalike}
+
+\end{document}

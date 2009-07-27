@@ -1,0 +1,49 @@
+Include bonito/bonita cases. To show that with multiple subjects it's the immediately dominating one.
+
+Include cases where the antecedent is something other than a subject.
+
+Background on the lit on how memory is encoded and navigated. Point to Sturt BV paper and Kazanina et al Condition C paper.
+Lift stuff from grant proposal in ref. to the debate.
+
+Mention that logic of the study is similar to Sturt and Xiang & Dillon et al, and agreement studies.
+	Reflexives: interferer makes no difference. With NPIs and agreement, they do.
+
+Describe construction of an item set in detail:
+	e.g. We include an intermediate clause with a singular impersonal subject, to avoid confounds of clause-to-clause agreement matching.
+	
+Describe conditions
+	adding in number factor on the matrix verb (fossem/fosse)
+	Why do the singular?
+		Drawbacks:
+			double item set
+			not sure whether it licenses an impersonal reading
+	
+		Plural:
+			downstream agreement: bug or feature? could go either way. mention this.
+			
+Details about the number of items etc.
+Estimate of how long each session should take
+How many subjects we'll need
+
+
+Need to establish: 
+
+1. that BP is sensitive to number morphology.
+2. that Holmberg generalizations hold. 
+
+General questions.
+
+* recruiting
+* logisitcs about running studies (space etc)
+* Timing?
+
+
+###########
+4/21/2009
+
+Drop a line to 
+Christina Schmidt
+Karen Miller @ Calvin College in Michigan
+in re number marking in BP. 
+
+Q: Is there reason to worry that people who don't use number marking consistently might fail to notice it when people DO use it.
