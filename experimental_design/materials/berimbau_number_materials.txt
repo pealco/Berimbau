@@ -1,8 +1,7 @@
 1
-# Don't want the agreeing "interessantes" in the RC.
-Os pacientes que o  psiquiatra  trata  mais freqüentemente acreditam que é certo que são do planeta Marte.
-O  paciente  que o  psiquiatra  trata  mais freqüentemente acredita  que é certo que são do planeta Marte.
-O  paciente  que os psiquiatras tratam mais freqüentemente acredita  que é certo que são do planeta Marte.
+Os pacientes que o  psiquiatra  trata  no hospital acreditam que é certo que são do planeta Marte.
+O  paciente  que o  psiquiatra  trata  no hospital acredita  que é certo que são do planeta Marte.
+O  paciente  que os psiquiatras tratam no hospital acredita  que é certo que são do planeta Marte.
 
 2
 Os criminosos que o  detetive  suspeitou   de ter roubado o dinheiro se deram conta que é obvio que são culpados do crime.
