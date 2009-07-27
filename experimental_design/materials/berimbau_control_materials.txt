@@ -1,7 +1,7 @@
 1
-Os pacientes que o  psiquiatra  trata  mais freqüentemente acreditam que é certo que eles são do planeta Marte.
-O  paciente  que o  psiquiatra  trata  mais freqüentemente acredita  que é certo que eles são do planeta Marte.
-O  paciente  que os psiquiatras tratam mais freqüentemente acredita  que é certo que eles são do planeta Marte.
+Os pacientes que o  psiquiatra  trata  no hospital acreditam que é certo que eles são do planeta Marte.
+O  paciente  que o  psiquiatra  trata  no hospital acredita  que é certo que eles são do planeta Marte.
+O  paciente  que os psiquiatras tratam no hospital acredita  que é certo que eles são do planeta Marte.
 
 2
 Os criminosos que o  detetive  suspeitou   de ter roubado o dinheiro se deram conta que é obvio que eles são culpados do crime.
@@ -10,8 +10,8 @@ O  criminoso  que os detetives suspeitaram de ter roubado o dinheiro se deu   co
 
 3
 Os matemáticos que o  estudante  consultou   sobre uma equação complicada responderam que é possível que eles encontraram a solução.
-O  matemático  que o  estudante  consultou   sobre uma equação complicada respondeu   que é possível que eles encontrou a solução.
-O  matemático  que os estudantes consultaram sobre uma equação complicada respondeu   que é possível que eles encontrou a solução.
+O  matemático  que o  estudante  consultou   sobre uma equação complicada respondeu   que é possível que eles encontraram a solução.
+O  matemático  que os estudantes consultaram sobre uma equação complicada respondeu   que é possível que eles encontraram a solução.
 
 4 
 Os aristocratas que o  mordomo  serviu   durante o almoço disseram que é possível que eles saírem na noite ao bar.
