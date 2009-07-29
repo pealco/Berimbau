@@ -29,9 +29,9 @@ A rainha que a palhaça entreteve no palaço se queixou que era obvio que estava
 A rainha que o palhaço entreteve no palaço se queixou que era obvio que estava entediado pelo ato.
 
 7-A
-O empresário que a empregada odeiava 
-A empresária que a empregada odeiava
-A empresária que o empregado odeiava
+O empregado que a empresária empregava no escritório disse que era possivel que estivesse promovido na prossima temporada. 
+A empregada que a empresária empregava no escritório disse que era possivel que estivesse promovido na prossima temporada.
+A empregada que o empresário empregava no escritório disse que era possivel que estivesse promovido na prossima temporada.
 
 8-A
 O ator  que a moça olhou no restaurante disse que era irritante que estivesse reconhecido em público.
@@ -39,8 +39,9 @@ A atriz que a moça olhou no restaurante disse que era irritante que estivesse r
 A atriz que o moço olhou no restaurante disse que era irritante que estivesse reconhecido em público.
 
 9-A
-
-
+O assassino que a ministra escapou achou que era impossivél que estivesse pegado pela polícia.
+A assassina que a ministra escapou achou que era impossivél que estivesse pegado pela polícia.
+A assassina que o ministro escapou achou que era impossivél que estivesse pegado pela polícia.
 
 10-B
 A nadadora que o corredor  conheceu nas Olympíadas disse que era importante que estivesse tranquila antes da corrida.
