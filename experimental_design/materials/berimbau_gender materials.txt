@@ -24,9 +24,9 @@ A advogada que a juiza repreendou por ter uma falta de respeito respondeu que er
 A advogada que o juiz  repreendou por ter uma falta de respeito respondeu que era obvio que estava brincando.
 
 6-A
-O rei    que a palhaça entreteve no palaço se queixou que era obvio que estava entediado pelo ato.  
-A rainha que a palhaça entreteve no palaço se queixou que era obvio que estava entediado pelo ato.
-A rainha que o palhaço entreteve no palaço se queixou que era obvio que estava entediado pelo ato.
+O rei    que a palhaça entreteve no palaço se queixou que era obvio que estava entediado pelo atoGG.  
+A rainha que a palhaça entreteve no palaço se queixou que era obvio que estava entediado pelo atoGG.
+A rainha que o palhaço entreteve no palaço se queixou que era obvio que estava entediado pelo atoGG.
 
 7-A
 O empresário que a empregada odeiava 
@@ -34,15 +34,19 @@ A empresária que a empregada odeiava
 A empresária que o empregado odeiava
 
 8-A
-O ator  que a moça adorava no novo filme disse que 
-A atriz que a moça adorava
-A atriz que o moço adorava
+O ator  que a moça olhou 
+A atriz que a moça olhou 
+A atriz que o moço olhou 
 
 9-A
-A princesa que 
-O príncipe que
-O príncipe que
+A princesa que o cidadão conheceu no castelo 
+O príncipe que o cidadão conheceu no castelo 
+O príncipe que a cidadã  conheceu no castelo 
 
+13-B
+A nadadora que o corredor conheceu nas Olympíadas disse que 
+O nadadora que a corredor conheceu nas Olympíadas disse que 
+O nadadora que a corredor conheceu nas Olympíadas disse que 
 
 
 10-B
@@ -61,7 +65,7 @@ O noivo que o pai conhecou recentemente pela primeira vez
 O noivo que a mãe conhecou recentemente pela primeira vez
 
 
-13-B
+
 
 
 14-B
@@ -87,4 +91,10 @@ O noivo que a mãe conhecou recentemente pela primeira vez
 18-B
 
 
+
+candidato, candidata
+cativo, cativa
+cidadão, cidadã
+corredor, corredora
+nadador, nadadora
 
