@@ -4,86 +4,90 @@ O  paciente  que o  psiquiatra  trata  no hospital acredita  que é certo que s�
 O  paciente  que os psiquiatras tratam no hospital acredita  que é certo que são do planeta Marte.
 
 2
-Os criminosos que o  detetive  suspeitou   de ter roubado o dinheiro se deram conta que é obvio que são culpados do crime.
-O  criminoso  que o  detetive  suspeitou   de ter roubado o dinheiro se deu   conta que é obvio que são culpados do crime.
-O  criminoso  que os detetives suspeitaram de ter roubado o dinheiro se deu   conta que é obvio que são culpados do crime.
+Os criminosos que o  detetive  suspeitou   de ter roubado o dinheiro viram que é obvio que são responsáveis do crime.
+O  criminoso  que o  detetive  suspeitou   de ter roubado o dinheiro viu   que é obvio que são responsáveis do crime.
+O  criminoso  que os detetives suspeitaram de ter roubado o dinheiro viu   que é obvio que são responsáveis do crime.
 
 3
-Os matemáticos que o  estudante  consultou   sobre uma equação complicada responderam que é possível que encontraram a solução.
-O  matemático  que o  estudante  consultou   sobre uma equação complicada respondeu   que é possível que encontrou a solução.
-O  matemático  que os estudantes consultaram sobre uma equação complicada respondeu   que é possível que encontrou a solução.
+Os matemáticos que o  estudante  consultou   sobre uma equação complicada responderam que é possível que tenham encontrado a solução do problema.
+O  matemático  que o  estudante  consultou   sobre uma equação complicada respondeu   que é possível que tenham encontrado a solução do problema.
+O  matemático  que os estudantes consultaram sobre uma equação complicada respondeu   que é possível que tenham encontrado a solução do problema.
 
-4 
-Os aristocratas que o  mordomo  serviu   durante o almoço disseram que é possível que saírem na noite ao bar.
-O  aristocrata  que o  mordomo  serviu   durante o almoço disse    que é possível que saírem na noite ao bar.
-O  aristocrata  que os mordomos serviram durante o almoço disse    que é possível que saírem na noite ao bar.
+4
+Os aristocratas que o  mordomo  serviu   durante o almoço disseram que é possível que sairão ao baile de formatura.
+O  aristocrata  que o  mordomo  serviu   durante o almoço disse    que é possível que sairão ao baile de formatura.
+O  aristocrata  que os mordomos serviram durante o almoço disse    que é possível que sairão ao baile de formatura.
 
 5 
-Os trabalhadores que o  capataz   critica  constantemente disseram que é provável que deixassem o trabalho ao final do mês.
-O  trabalhador   que o  capataz   critica  constantemente disse    que é provável que deixassem o trabalho ao final do mês.
-O  trabalhador   que os capatazes criticam constantemente disse    que é provável que deixassem o trabalho ao final do mês.
+Os trabalhadores que o  chefe   critica  a toda hora disseram que é provável que deixassem o trabalho ao final do mês.
+O  trabalhador   que o  chefe   critica  a toda hora disse    que é provável que deixassem o trabalho ao final do mês.
+O  trabalhador   que os chefes criticam  a toda hora disse    que é provável que deixassem o trabalho ao final do mês.
 
 6
-Os refugiados que o  soldado  descobriu   no porão duma casa disseram que é importante que voltassem ao pais nativo.
-O  refugiado  que o  soldado  descobriu   no porão duma casa disse    que é importante que voltassem ao pais nativo.
-O  refugiado  que os soldados descobriram no porão duma casa disse    que é importante que voltassem ao pais nativo.
+Os refugiados que o  soldado  descobriu   no porão de uma casa disseram que é importante que falassem com o embaixador.
+O  refugiado  que o  soldado  descobriu   no porão de uma casa disse    que é importante que falassem com o embaixador.
+O  refugiado  que os soldados descobriram no porão de uma casa disse    que é importante que falassem com o embaixador.
 
-7
-Os científicos que o  jornalista  entrevistou   sobre o novo descobrimento químico disseram que era provável que tinham descoberto um novo elemento.
-O  científico  que o  jornalista  entrevistou   sobre o novo descobrimento químico disse    que era provável que tinham descoberto um novo elemento.
-O  científico  que os jornalistas entrevistaram sobre o novo descobrimento químico disse    que era provável que tinham descoberto um novo elemento.
+7 # biases
+Os químicos que o  jornalista  entrevistou   sobre a nova descoberta  disseram que era provável que tivessem encontrado um novo elemento.
+O  químico  que o  jornalista  entrevistou   sobre a nova descoberta  disse    que era provável que tivessem encontrado um novo elemento.
+O  químico  que os jornalistas entrevistaram sobre a nova descoberta  disse    que era provável que tivessem encontrado um novo elemento.
 
 8
-Os artistas que o  colecionista  conheceu   na galeria acreditam que é obvio que vão ser ricos e famosos.
-O  artista  que o  colecionista  conheceu   na galeria acredita  que é obvio que vão ser ricos e famosos.
-O  artista  que os colecionistas conheceram na galeria acredita  que é obvio que vão ser ricos e famosos.
+Os artistas que o  colecionador   conheceu   na galeria acreditam que é obvio que vão ser ricos e famosos.
+O  artista  que o  colecionador   conheceu   na galeria acredita  que é obvio que vão ser ricos e famosos.
+O  artista  que os colecionadores conheceram na galeria acredita  que é obvio que vão ser ricos e famosos.
+# Both NPs can be treated as plural, together
 
-9 
-Os pesquisadores que o  colega  ridicularizou   na conferência acham que é surpreendente que ganharam o prêmio Nobel.
-O  pesquisadores que o  colega  ridicularizou   na conferência acha  que é surpreendente que ganharam o prêmio Nobel.
-O  pesquisadores que os colegas ridicularizaram na conferência acha  que é surpreendente que ganharam o prêmio Nobel.
 
-10
-Os doutores que o  paciente consultou   depois da operação disseram que era provável que tinham curado a enfermidade.
-O  doutor   que o  paciente consultou   depois da operação disse    que era provável que tinham curado a enfermidade.
-O  doutor   que os paciente consultaram depois da operação disse    que era provável que tinham curado a enfermidade.
+9 						
+Os alunos que o  diretor   ridicularizou   na conferência acham que é surpreendente que tenham ganhado a bolsa CNPq.
+O  aluno  que o  diretor   ridicularizou   na conferência acha  que é surpreendente que tenham ganhado a bolsa CNPq.
+O  aluno  que os diretores ridicularizaram na conferência acha  que é surpreendente que tenham ganhado a bolsa CNPq.
 
-11
-Os turistas que o  ladrão  enganou   na cidade estrangeira se deram conta que é provável que perdessem tudo o dinheiro. 
-O  turista  que o  ladrão  enganou   na cidade estrangeira se deu   conta que é provável que perdessem tudo o dinheiro. 
-O  turista  que os ladroes enganaram na cidade estrangeira se deu   conta que é provável que perdessem tudo o dinheiro. 
+10 # biased
+Os doutores que o  paciente  consultou   no corredor disseram que era provável que tinham curado a enfermidade.
+O  doutor   que o  paciente  consultou   no corredor disse    que era provável que tinham curado a enfermidade.
+O  doutor   que os pacientes consultaram no corredor disse    que era provável que tinham curado a enfermidade.
 
-12
-Os fregueses que a  vendedora  assistiu   na loja acharam que era irritante que tinham que esperar tanto tempo para atenção.
-O  freguês   que a  vendedora  assistiu   na loja achou   que era irritante que tinham que esperar tanto tempo para atenção.
-O  freguês   que as vendedoras assistiram na loja achou   que era irritante que tinham que esperar tanto tempo para atenção.
+11 # biased
+Os turistas que o  ladrão  enganou   na rua deserta perceberam que era possível que tivessem numa área ruim da cidade. 
+O  turista  que o  ladrão  enganou   na rua deserta percebeu que era possível que tivessem numa área ruim da cidade. 
+O  turista  que os ladroes enganaram na rua deserta percebeu que era possível que tivessem numa área ruim da cidade. 
 
+12 
+Os fregueses que a  vendedora  antendeu   na loja acharam que era irritante que tivessem que esperar tanto tempo na fila.
+O  freguês   que a  vendedora  antendeu   na loja achou   que era irritante que tivessem que esperar tanto tempo na fila.
+O  freguês   que as vendedoras antenderam na loja achou   que era irritante que tivessem que esperar tanto tempo na fila.
+                                                                                                              
 13
-Os jovens que o  policial  prendou   por roubar um carro alegaram que era obvio que eram inocentes do crime.
-O  joven  que o  policial  prendou   por roubar um carro alegou   que era obvio que eram inocentes do crime.
-O  joven  que os policiais prenderam por roubar um carro alegou   que era obvio que eram inocentes do crime.
+Os jovens que o  policial  prendeu   por roubar um carro alegaram que era óbvio que eram inocentes do crime.
+O  jovem  que o  policial  prendeu   por roubar um carro alegou   que era óbvio que eram inocentes do crime.
+O  jovem  que os policiais prenderam por roubar um carro alegou   que era óbvio que eram inocentes do crime.
 
 14
-Os construtores que o arquiteto  contratou   para construir o imóvel disseram que era provável que terminassem pelo fim do ano.
-O  construtor   que o arquiteto  contratou   para construir o imóvel disse    que era provável que terminassem pelo fim do ano.
-O  construtor   que o arquitetos contrataram para construir o imóvel disse    que era provável que terminassem pelo fim do ano.
+Os construtores que o arquiteto  contratou   para levantar o imóvel disseram que era provável que terminassem no fim do ano.
+O  construtor   que o arquiteto  contratou   para levantar o imóvel disse    que era provável que terminassem no fim do ano.
+O  construtor   que o arquitetos contrataram para levantar o imóvel disse    que era provável que terminassem no fim do ano.
+# Check levantar with other speaker.
 
-15
+
+15 # Can an editor publish an author? ; More words.
 Os autores que o  editor   publicou   com muito sucesso disseram que era provável que escrevessem outros livros.
 O  autor   que o  editor   publicou   com muito sucesso disse    que era provável que escrevessem outros livros.
 O  autor   que os editores publicaram com muito sucesso disse    que era provável que escrevessem outros livros.
 
 16
-Os advogados que o  cliente  encontrou   na corte disseram que era preciso que falassem com o juiz. 
-O  advogado  que o  cliente  encontrou   na corte disse    que era preciso que falassem com o juiz. 
-O  advogado  que os clientes encontraram na corte disse    que era preciso que falassem com o juiz. 
+Os advogados que o  cliente  encontrou   no tribunal disseram que era preciso que falassem com o juiz. 
+O  advogado  que o  cliente  encontrou   no tribunal disse    que era preciso que falassem com o juiz. 
+O  advogado  que os clientes encontraram no tribunal disse    que era preciso que falassem com o juiz. 
 
-17
+17 # Biased-ish
 Os diplomatas que o  ministro  acolheu   na mansão presidencial disseram que era possível que tivessem que voltar cedo.
 O  diplomata  que o  ministro  acolheu   na mansão presidencial disse    que era possível que tivessem que voltar cedo.
 O  diplomata  que os ministros acolheram na mansão presidencial disse    que era possível que tivessem que voltar cedo.
 
 18
-Os meninos que o  professor   viu   no boteco da esquina disseram que era provável que fossem chegar atrasados na sala de aula. 
-O  menino  que o  professor   viu   no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 
-O  menino  que os professores viram no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 
+Os universitários que o  professor   viu   no boteco da esquina disseram que era provável que fossem chegar atrasados na sala de aula. 
+O  universitário   que o  professor   viu   no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 
+O  universitário   que os professores viram no boteco da esquina disse    que era provável que fossem chegar atrasados na sala de aula. 
